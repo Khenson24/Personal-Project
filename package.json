@@ -1,0 +1,23 @@
+{
+  "name": "personal",
+  "version": "1.0.0",
+  "description": "My personal app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Khenson24/Personal-Project.git"
+  },
+  "author": "Kinard Henson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Khenson24/Personal-Project/issues"
+  },
+  "homepage": "https://github.com/Khenson24/Personal-Project#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
